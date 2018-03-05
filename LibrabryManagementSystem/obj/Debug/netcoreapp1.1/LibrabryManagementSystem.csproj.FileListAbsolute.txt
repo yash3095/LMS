@@ -1,0 +1,9 @@
+E:\My Files\Projects\LibrabryManagementSystem\LibrabryManagementSystem\bin\Debug\netcoreapp1.1\LibrabryManagementSystem.deps.json
+E:\My Files\Projects\LibrabryManagementSystem\LibrabryManagementSystem\bin\Debug\netcoreapp1.1\LibrabryManagementSystem.runtimeconfig.json
+E:\My Files\Projects\LibrabryManagementSystem\LibrabryManagementSystem\bin\Debug\netcoreapp1.1\LibrabryManagementSystem.runtimeconfig.dev.json
+E:\My Files\Projects\LibrabryManagementSystem\LibrabryManagementSystem\bin\Debug\netcoreapp1.1\LibrabryManagementSystem.dll
+E:\My Files\Projects\LibrabryManagementSystem\LibrabryManagementSystem\bin\Debug\netcoreapp1.1\LibrabryManagementSystem.pdb
+E:\My Files\Projects\LibrabryManagementSystem\LibrabryManagementSystem\obj\Debug\netcoreapp1.1\LibrabryManagementSystem.csprojResolveAssemblyReference.cache
+E:\My Files\Projects\LibrabryManagementSystem\LibrabryManagementSystem\obj\Debug\netcoreapp1.1\LibrabryManagementSystem.AssemblyInfo.cs
+E:\My Files\Projects\LibrabryManagementSystem\LibrabryManagementSystem\obj\Debug\netcoreapp1.1\LibrabryManagementSystem.dll
+E:\My Files\Projects\LibrabryManagementSystem\LibrabryManagementSystem\obj\Debug\netcoreapp1.1\LibrabryManagementSystem.pdb
